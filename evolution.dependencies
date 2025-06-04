@@ -46,5 +46,9 @@
     {
         "repository": "kernel_samsung_gta4xl",
         "target_path": "kernel/samsung/gta4xl"
+    },
+    {
+        "repository": "vendor_samsung_gta4xl-common",
+        "target_path": "vendor/samsung/gta4xl-common"
     }
 ]
